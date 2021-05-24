@@ -211,7 +211,7 @@ li {
   max-width: 30%;
   max-height: 60px;
 }
-time {
+.time {
   font-size: 0.7em;
   font-weight: 600;
   color: #FEBD53;
