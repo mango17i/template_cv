@@ -439,7 +439,7 @@ margin-bottom: 20px;}
  margin-right: 5px;
 }
 .half ul{
-  padding-inline-start: 0px;
+  padding-inline-start: none;
 }
 .center li{ display: flex;
   flex-flow: row nowrap;
@@ -486,7 +486,7 @@ padding: 30px 20px;  }
     text-shadow: 1px 1px 1px #224870;
   font-weight: 500;}
 
-}
+
 .xp p{
     padding: 5px 0;
     font-size: 1em;
@@ -521,7 +521,6 @@ padding: 30px 20px;  }
   }
   .hard h3 {
       line-height: 22px;
-font-size: 0.2;
 padding: 15px;
 text-shadow:1px 1px 3px #7796CB;
 font-size: 1.4em;  }
